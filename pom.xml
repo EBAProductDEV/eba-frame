@@ -19,6 +19,7 @@
 
     <modules>
         <module>qctv1-common</module>
+        <module>qctv1-iam-api</module>
     </modules>
 
     <properties>
